@@ -1,0 +1,6 @@
+{
+  "name": "GramFin",
+  "description": "Rural financial literacy platform with fraud protection, interactive savings calculators, voice narration, and offline emergency guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
